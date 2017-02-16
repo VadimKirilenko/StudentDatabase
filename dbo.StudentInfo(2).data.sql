@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[StudentInfo] ([Id], [First Name], [Last Name], [Age]) VALUES (1, N'Vadim', N'Kirilenko', 32)
+INSERT INTO [dbo].[StudentInfo] ([Id], [First Name], [Last Name], [Age]) VALUES (2, N'Jimi', N'Hendrix', 27)

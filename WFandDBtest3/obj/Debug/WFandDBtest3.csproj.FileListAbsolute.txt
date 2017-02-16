@@ -1,0 +1,13 @@
+c:\users\вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\WFandDBtest3.exe.config
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\WFandDBtest3.exe
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\WFandDBtest3.pdb
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\EntityFramework.dll
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\EntityFramework.xml
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.Form1.resources
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.Properties.Resources.resources
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.csproj.GenerateResource.Cache
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.exe
+C:\Users\Вадим\documents\visual studio 2015\Projects\WFandDBtest3\WFandDBtest3\obj\Debug\WFandDBtest3.pdb
